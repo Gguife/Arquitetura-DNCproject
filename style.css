@@ -63,6 +63,7 @@ body{
 }
 .about-img img {
   height: 500px;
+  margin-bottom: 30px;
 }
 
 /*Form*/
